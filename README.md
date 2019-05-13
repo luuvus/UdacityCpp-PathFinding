@@ -1,0 +1,1 @@
+C++ console application to find a path between two points on grid using A* search algorithm.
